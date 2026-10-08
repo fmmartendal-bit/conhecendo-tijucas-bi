@@ -7,6 +7,8 @@ private/
 *.json
 !package.json
 !.openai/hosting.json
+!published-data/data.json
+!published-data/finance-data.json
 *.csv
 *.tsv
 *.xlsx
